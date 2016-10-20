@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /profile/
+Disallow: /register/
+Disallow: /news/
+Disallow: /search
+Disallow: /messages
+Sitemap: http://animereviews.ru/sitemap.xml
